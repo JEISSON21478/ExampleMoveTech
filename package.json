@@ -2,6 +2,7 @@
   "name": "bank_website",
   "private": true,
   "version": "0.0.0",
+  "homepage": "http://JEISSON21478.github.io/ExampleMoveTech",
   "type": "module",
   "scripts": {
     "start" : "vite",
